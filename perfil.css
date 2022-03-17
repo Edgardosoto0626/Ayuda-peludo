@@ -1,9 +1,27 @@
-a{
-    margin-top: 0;
+#gatos{
+
+    position: fixed;
     right: 0;
+    height: 0;
+    
 }
 img{
-    margin-left: 230px;
-    width: fit-content;
-    height: fit-content;
+    margin-top: 130px;
+    margin-left: 150px;
+    width: 500px;
+    height: 500px;
+}
+div.fixed{
+
+    margin-top: 40px;
+    position: fixed;
+    right: 0;
+    
+}
+#div.table{
+    text-align: center;
+}
+#diseño{
+    margin-left: 50%;
+    margin-top: -20%;   
 }
