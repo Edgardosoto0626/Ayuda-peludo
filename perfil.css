@@ -1,27 +1,27 @@
-#gatos{
+#gatos{ /* Posicion de enlace para volver a pagina de selección */
 
     position: fixed;
     right: 0;
     height: 0;
     
 }
-img{
+img{ /* posicion de imagen de animales */
     margin-top: 130px;
     margin-left: 150px;
     width: 500px;
     height: 500px;
 }
-div.fixed{
+div.fixed{ /* posicion fija de enlace para volver a pagina principal*/
 
     margin-top: 40px;
     position: fixed;
     right: 0;
     
 }
-#div.table{
+#div.table{ /* posicion de texto de descripción */
     text-align: center;
 }
-#diseño{
+#diseño{ /* posicion  de la tabla*/
     margin-left: 50%;
     margin-top: -20%;   
 }

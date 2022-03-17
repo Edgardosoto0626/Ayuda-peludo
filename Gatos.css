@@ -1,17 +1,17 @@
-h1,p{
+h1,p{ /* textos de descripción */
     text-align: center;
 }
-img{
+img{ /* imagenes de gatos*/
     margin-left: 230px;
     width: 200px;
     height: 200px;
 }
-a{
+a{ /* enlace de descripcion de gatos */
     margin-left: 50px;
     position: absolute;
     margin-top: 9%;
 }
-#inicio{
+#inicio{ /* enlace de volver a pagina principal */
 position: fixed;
 margin-top: 0;
 right: 0;

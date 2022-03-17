@@ -16,7 +16,7 @@ ul{ /*Ajustar lista*/
     margin-left: 200px; /* margen posicion de lista*/
 }
 a{
-    margin-left: 150px;
+    margin-left: 150px; /* Margenes y posicion de enlaces */
     position: absolute;
     margin-top: 9%;
 }
