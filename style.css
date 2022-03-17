@@ -1,12 +1,22 @@
 h1{
 
-    text-align: center;
+    text-align: center; /* Centraliza texto */
 
 }
-p,a{
-    text-align: center;
+p{
+    text-align: center; /* Cemtraliza texto */
 }
-ul{
-    margin: 8%;
-
+img{ /* ajustar imagen de portada*/
+    margin-left: 230px;
+    width: 250px; /* ancho */
+    height: 250px; /* altura */
+}
+ul{ /*Ajustar lista*/
+    padding: 50px; /* ancho del texto*/
+    margin-left: 200px; /* margen posicion de lista*/
+}
+a{
+    margin-left: 150px;
+    position: absolute;
+    margin-top: 9%;
 }
