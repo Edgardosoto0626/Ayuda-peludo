@@ -9,7 +9,7 @@ p{
 img{ /* ajustar imagen de portada*/
     margin-left: 230px;
     width: 250px; /* ancho */
-    height: 250px; /* altura */
+    height: 250px; /* alto */
 }
 ul{ /*Ajustar lista*/
     padding: 50px; /* ancho del texto*/
@@ -20,3 +20,4 @@ a{
     position: absolute;
     margin-top: 9%;
 }
+
