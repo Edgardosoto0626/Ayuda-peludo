@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+}
+.center{
+    margin: 0px;
+    border: 1px solid red;
+    width: 80%;
+   
+}
