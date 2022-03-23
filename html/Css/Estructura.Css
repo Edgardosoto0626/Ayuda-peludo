@@ -1,0 +1,43 @@
+body {
+      background-color:#302f2f;
+      background-repeat: no-repeat;
+      background-position:50% 50%;  
+}
+
+.caja1 {
+      background-color: rgb(37, 187, 207);
+      width: 80%;
+      height: 30%;
+      padding: 40px;
+      float: right;
+      font-style: sans-serif;
+}
+.caja2 {
+      background-color: rgba(240, 217, 10, 0.918);
+      width: 80%;
+      height: 30%;
+      padding: 40px;
+      float: right;
+      font-style: sans-serif;
+}
+
+.caja3 {
+      background-color: rgb(241, 124, 13);
+      width: 80%;
+      height: 30%;
+      padding: 40px;
+      float: right;
+      font-style: sans-serif;
+}
+.caja4 {
+      background-color: rgba(240, 10, 10, 0.911);
+      width: 80%;
+      height: 30%;
+      padding: 40px;
+      float: right;
+      font-style: sans-serif;
+}
+
+
+
+
