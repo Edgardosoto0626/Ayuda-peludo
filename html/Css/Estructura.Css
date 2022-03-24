@@ -1,22 +1,20 @@
 body {
       background-color:#302f2f;
       background-repeat: no-repeat;
-      background-position:50% 50%;  
 }
 
 .caja1 {
       background-color: rgb(37, 187, 207);
       width: 80%;
-      height: 30%;
-      padding: 40px;
+      padding: 25px;
       float: right;
       font-style: sans-serif;
+      
 }
 .caja2 {
       background-color: rgba(240, 217, 10, 0.918);
       width: 80%;
-      height: 30%;
-      padding: 40px;
+      padding: 25px;
       float: right;
       font-style: sans-serif;
 }
@@ -24,19 +22,40 @@ body {
 .caja3 {
       background-color: rgb(241, 124, 13);
       width: 80%;
-      height: 30%;
-      padding: 40px;
+      padding: 25px;
       float: right;
       font-style: sans-serif;
 }
 .caja4 {
       background-color: rgba(240, 10, 10, 0.911);
       width: 80%;
-      height: 30%;
-      padding: 40px;
+      padding: 25px;
       float: right;
       font-style: sans-serif;
 }
+ul{
+      list-style-type: none;
+      margin: 20px;
+      padding: 0%;
+      width: 20%;
+      position: fixed;
+      height: 100%;
+      overflow: auto;
+}
+li a{
+      display: block;
+      color: rgb(224, 214, 196);
+      padding: 4px;
+      text-decoration: none;
+}
+li a.active{
+      color: white;
+}
+li a:hover:not(.active){
+  
+      color: white;
+}
+
 
 
 
